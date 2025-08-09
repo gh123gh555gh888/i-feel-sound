@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <link rel="stylesheet" src="style.css"/>
+        <title>Коллекция музыки</title>
+    </head>
+    <body>
+    <header>
+        <h1>I feel sound</h1>
+    </header>
+    <main>
+        <h2>Popular</h2>
+            <div>
+            <h3>Новости</h3>
+            <a href="https://music.yandex.ru/album/3935393?utm_source=web&utm_medium=copy_link">Вышел новый клип</a>
+        </div>
+        <iframe frameborder="0" allow="clipboard-write" style="border:none;width:614px;height:556px;" width="150px" height="150px" src="https://music.yandex.ru/iframe/album/180107">Слушайте <a href="https://music.yandex.ru/album/180107?utm_source=web&utm_medium=copy_link">Americana</a> — <a href="https://music.yandex.ru/artist/64592">The Offspring</a> на Яндекс Музыке</iframe>
+        <iframe frameborder="0" allow="clipboard-write" style="border:none;width:614px;height:556px;" width="150px" height="150px" src="https://music.yandex.ru/iframe/album/488052">Слушайте <a href="https://music.yandex.ru/album/488052?utm_source=web&utm_medium=copy_link">Meteora</a> — <a href="https://music.yandex.ru/artist/36800">Linkin Park</a> на Яндекс Музыке</iframe>
+        <h2>Relax</h2>
+        <iframe frameborder="0" allow="clipboard-write" style="border:none;width:614px;height:556px;" width="150px" height="150px" src="https://music.yandex.ru/iframe/album/495810">Слушайте <a href="https://music.yandex.ru/album/495810?utm_source=web&utm_medium=copy_link">Antennas to Hell</a> — <a href="https://music.yandex.ru/artist/48196">Slipknot</a> на Яндекс Музыке</iframe>
+
+    </main>
+    <footer>
+        <h2>Больше музыки в соцсетях</h2>
+        <img src="Group 1.svg"
+    </footer>
+    </body>
+</html>
